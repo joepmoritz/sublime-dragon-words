@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+super+e"], "command": "dragon_words_toggle_sidebar", "args": {}, "context": [ ] },
+
+]
